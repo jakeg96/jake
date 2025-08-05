@@ -3,7 +3,7 @@ import { Icon } from '@iconify/vue'
 </script>
 
 <template>
-  <body class="flex flex-col justify-center items-center h-screen text-white p-10">
+  <body class="flex flex-col justify-center items-center md:h-screen text-white p-10">
     <div class="text-8xl text-center">Jake Green</div>
     <div class="my-6 flex flex-col justify-center gap-4">
         <a href="https://github.com/jakeg96" target="_blank" class="flex items-center hover:text-blue-400"
