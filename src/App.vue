@@ -16,7 +16,7 @@ import { Icon } from '@iconify/vue'
     </div>
     <div class="text-5xl my-4">Projects</div>
     <div class="flex flex-col md:flex-row justify-center gap-5">
-      <div class="flex flex-col items-center justify-center md:w-3/12">
+      <div class="flex flex-col items-center justify-center md:w-3/12 rounded-2xl bg-zinc-700 p-3 border border-zinc-400">
         <div class="font-bold text-3xl">SkyTrack</div>
         <a href="https://skytrack.jakegreen.dev" target="_blank" class="text-blue-400 hover:text-blue-300"
           >skytrack.jakegreen.dev</a
@@ -46,7 +46,7 @@ import { Icon } from '@iconify/vue'
         >
       </div>
       
-      <div class="flex flex-col items-center md:w-3/12 ">
+      <div class="flex flex-col items-center md:w-3/12 rounded-2xl bg-zinc-700 p-3 border border-zinc-400">
         <div class="font-bold text-3xl">PC</div>
         <a href="https://pc.jakegreen.dev" target="_blank" class="text-blue-400 hover:text-blue-300"
           >pc.jakegreen.dev</a
